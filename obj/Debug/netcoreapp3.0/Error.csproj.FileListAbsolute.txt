@@ -1,0 +1,11 @@
+C:\Users\MR BAKARE.M\Error\bin\Debug\netcoreapp3.0\Error.exe
+C:\Users\MR BAKARE.M\Error\bin\Debug\netcoreapp3.0\Error.deps.json
+C:\Users\MR BAKARE.M\Error\bin\Debug\netcoreapp3.0\Error.runtimeconfig.json
+C:\Users\MR BAKARE.M\Error\bin\Debug\netcoreapp3.0\Error.runtimeconfig.dev.json
+C:\Users\MR BAKARE.M\Error\bin\Debug\netcoreapp3.0\Error.dll
+C:\Users\MR BAKARE.M\Error\bin\Debug\netcoreapp3.0\Error.pdb
+C:\Users\MR BAKARE.M\Error\obj\Debug\netcoreapp3.0\Error.csprojAssemblyReference.cache
+C:\Users\MR BAKARE.M\Error\obj\Debug\netcoreapp3.0\Error.AssemblyInfoInputs.cache
+C:\Users\MR BAKARE.M\Error\obj\Debug\netcoreapp3.0\Error.AssemblyInfo.cs
+C:\Users\MR BAKARE.M\Error\obj\Debug\netcoreapp3.0\Error.dll
+C:\Users\MR BAKARE.M\Error\obj\Debug\netcoreapp3.0\Error.pdb
